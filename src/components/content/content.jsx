@@ -1,7 +1,7 @@
 const Content = () => {
     return (
       <div>
-        <buton>Click<button/>
+        <button>Click</button>
       </div>
     );
 };
