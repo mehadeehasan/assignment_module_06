@@ -15,4 +15,4 @@ const Content = () => {
     );
 };
 
-export default Header;
+export default Content;
